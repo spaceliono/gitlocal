@@ -1,2 +1,3 @@
 a.txt
 line 1
+line 2
